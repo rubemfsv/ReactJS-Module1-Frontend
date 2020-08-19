@@ -4,5 +4,5 @@ Respository for the first ReactJS front end module for the Rocketseat GoStack Bo
 
 ### What this project covers:
 
-* NodeJS
-* Express
+* ReactJS
+* API integration
